@@ -46,6 +46,15 @@ Below are the different options you can use and some examples.
 	- Not Required
 	- Filters by a specific property for the document type. Only one filter is supported at this time. Ex. -f productSize:large
 
+#### Error Codes
+1. Error Code: 0 
+	- Not actually an error, just exited successfully. 
+
+2. Error Code: 1
+	- Document Load Error, I.E. something is wrong with the Umbraco Config file and it couldn't be loaded.
+
+3. Error Code: 2 
+	- Incorrect Options. The Options could not be parsed for some reason. Missing space, misspelled, option doesn't exist, etc...
 
 #### Example Arguments
 
