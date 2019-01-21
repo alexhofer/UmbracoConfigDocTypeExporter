@@ -84,4 +84,4 @@ The file name will be: **MySite_Article.csv**
 
 ### Pull Requests
 ---
-If you see this and want to add anything, fix a big, or make any changes feel free to make a pull request. Or create an issue and I can look into it. 
+If you see this and want to add anything, fix a bug, or make any changes feel free to make a pull request. Or create an issue and I can look into it. 
